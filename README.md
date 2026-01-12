@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil! 👋
 
-<!--
-**EversonPrieto/EversonPrieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo Éverson e sou formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Full Stack utilizando JavaScript/TypeScript com Node.js e Express.
 
-Here are some ideas to get you started:
+## 💻 Atualmente estou
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabalhando como desenvolvedor Full Stack, utilizando Next.js no Front, GO na API e PostgreSQL no Banco de Dados em um projeto próprio.
+
+## 🌱 Estou aprendendo
+
+Estou focado em aprimorar minhas habilidades no uso do GO, e em outras linguagens.
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/éverson-prieto-115052156/
+- E-mail: eversonlemosprieto@outlook.com
