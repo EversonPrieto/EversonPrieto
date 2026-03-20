@@ -4,11 +4,11 @@ Olá! Me chamo Éverson e sou formado em Análise e Desenvolvimento de Sistemas,
 
 ## 💻 Atualmente estou
 
-Trabalhando como desenvolvedor Full Stack, utilizando Next.js no Front, GO na API e PostgreSQL no Banco de Dados em um projeto próprio.
+Trabalhando como desenvolvedor Full Stack, utilizando Next.js no Front, NestJS na API e PostgreSQL no Banco de Dados em um projeto próprio.
 
 ## 🌱 Estou aprendendo
 
-Estou focado em aprimorar minhas habilidades no uso do GO, e em outras linguagens.
+Estou focado em aprimorar minhas habilidades no uso do JAVA e GO no momento.
 
 ## 📫 Contato
 
